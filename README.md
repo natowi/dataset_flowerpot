@@ -1,6 +1,8 @@
 # dataset_flowerpot
 Dataset for photogrammetry
 
+The images were created by turning the object with the reference plane and keeping the camera on the same position.
+
 License: CC BY 4.0
 
 # ![flowerpot](/meshroom_results/cameraspointcloud.JPG)
